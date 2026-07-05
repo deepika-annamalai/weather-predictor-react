@@ -7,8 +7,8 @@ A simple and responsive Weather App built with **React** that allows users to se
 👉 https://deepika-weather-predictor.netlify.app/
 
 ## 📸 Preview
-
-(Add a screenshot of your application here)
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/c57b22dc-66a6-464f-988d-afbe171a017c" />
+<img width="1918" height="896" alt="image" src="https://github.com/user-attachments/assets/1153894e-736b-4d9a-be5d-71f88f6e30c2" />
 
 ## ✨ Features
 
@@ -46,7 +46,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone <your-github-repository-link>
+git clone https://github.com/deepika-annamalai/weather-predictor-react.git
 ```
 
 Install dependencies:
@@ -93,6 +93,6 @@ While building this project, I learned:
 
 ## 👩‍💻 Author
 
-**Deepika A**
+**Deepika Annamalai**
 
 Made with ❤️ using React.
