@@ -4,7 +4,7 @@ A simple and responsive Weather App built with **React** that allows users to se
 
 ## 🔗 Live Demo
 
-👉 https://deepika-weather-predictor.netlify.app/
+👉 https://deepika-annamalai.github.io/weather-predictor-react/
 
 ## 📸 Preview
 <img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/c57b22dc-66a6-464f-988d-afbe171a017c" />
